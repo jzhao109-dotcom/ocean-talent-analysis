@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Environments
+.env
+.env.local
+.venv/
+venv/
+env/
+
+# Secrets - 永远不要提交 API 密钥
+*api_key*
+*secret*
+*.pem
+*.key
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Large / temporary data outputs (按需取消注释)
+# *.csv.bak
+# tmp/

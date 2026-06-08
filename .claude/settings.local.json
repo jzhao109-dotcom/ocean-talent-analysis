@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(python -c \"import pandas as pd; p='valid_three_layer_archive/person_cluster_results/person_clusters/cluster_profiles.csv'; df=pd.read_csv\\(p,index_col=0\\);\\\\nfor idx,row in df.iterrows\\(\\):\\\\n    top=row.sort_values\\(ascending=False\\).head\\(6\\)\\\\n    print\\(idx, ' | '.join\\([f'{k}:{v:.2f}' for k,v in top.items\\(\\)]\\)\\)\")",
+      "PowerShell(python -c $code)",
+      "Bash(grep -rn \"sk-[a-zA-Z0-9]\\\\{20,\\\\}\" \"C:/Users/www27/Desktop/海洋人才 final/\")",
+      "PowerShell(winget install *)"
+    ]
+  }
+}
