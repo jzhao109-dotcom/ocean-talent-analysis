@@ -27,7 +27,7 @@ def test_notebook_defines_and_runs_three_layers():
     assert "OUTER_K" in src
     assert "MIDDLE_K" in src
     assert "INNER_K" in src
-    assert 'analyze_layer("outer_layer", "外层 · 海洋专业实践层", OUTER_OUT' in src
-    assert 'analyze_layer("middle_layer", "中层 · 海洋能力资源层", MIDDLE_OUT' in src
-    assert 'analyze_layer("inner_layer", "内层 · 海洋深层素养层", INNER_OUT' in src
+    assert 'analyze_layer("outer_layer", "外层 · 蓝色胜任表征维度", OUTER_OUT' in src
+    assert 'analyze_layer("middle_layer", "中层 · 协同创新支撑维度", MIDDLE_OUT' in src
+    assert 'analyze_layer("inner_layer", "内层 · 深蓝精神内核维度", INNER_OUT' in src
     assert "海洋人才三层能力聚类分析" in src
