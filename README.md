@@ -26,6 +26,36 @@
 ```
 
 ---
+	
+## 命名逻辑与理论支撑
+
+三层维度命名借鉴人力资源与组织行为学中的四类经典理论：**胜任力模型**（Campion et al., 2011, 2020）、**AMO 框架**（Ability-Motivation-Opportunity；Bos-Nehles et al., 2023）、**人力资本资源理论**（Ployhart et al., 2014）和**冰山/洋葱式分层胜任力模型**（McClelland, 1973；Spencer & Spencer, 1993）。三条维度的理论对应关系为：
+
+| 维度 | 理论来源 | 核心对应 |
+|---|---|---|
+| **蓝色胜任表征维度** | 胜任力模型（Campion）· 冰山模型水上部分（Spencer）· 专项人力资本（Ployhart） | 可观察的专业实践行为与产出，是 KSAO 中外显的 Skills × 领域化 Abilities |
+| **协同创新支撑维度** | KSAO 框架（Campion）· 通用人力资本资源（Ployhart）· AMO-Ability（Bos-Nehles） | 可迁移的知识结构、方法经验与资源组织方式，回答"凭什么能把事做成" |
+| **深蓝精神内核维度** | 冰山模型水下部分（Spencer, McClelland）· AMO-Motivation · KSAO-O（Other characteristics） | 内在动机、价值取向、自我概念与使命驱动，回答"为什么长期坚持" |
+
+### 外层：蓝色胜任表征维度
+
+"胜任"直接取自胜任力模型（competency modeling）的核心概念。Campion et al. (2011) 将胜任力定义为"与组织战略和岗位绩效相关的行为、知识技能与深层特质集合"，强调胜任力必须通过**可观察的行为表现**来测量。"表征"即 manifestation——外显的、可被第三方辨识的专业行为痕迹。14 个外层主题（深海潜器、水产种业、油气勘探等）每一项都是人才在特定海洋赛道的**可观察专业表征**。对应 Spencer & Spencer (1993) 冰山模型中的"水上部分"（knowledge, skills），以及 Ployhart et al. (2014) 所定义的"专项人力资本"（specific human capital）。
+
+### 中层：协同创新支撑维度
+
+中层 6 个主题——跨学科协同转化、实地验证与现场调查、数值建模与模拟验证、系统集成与标准化、多源数据融合分析、国际科研协作组织——全部指向**跨边界、跨领域的协同与创新方法论**。"协同创新"捕捉了这一层的方法学本质：不是单一技能，而是整合多方知识与资源、在复杂系统中推动创新产出的能力。理论对应 KSAO 框架中的 Knowledge × Abilities（Campion et al., 2011），AMO 框架中的 Ability 维度（Bos-Nehles et al., 2023），以及人力资本资源理论中的"通用人力资本"（generic human capital；Ployhart et al., 2014）——这些能力可跨海洋场景迁移，是连接"做什么"与"为什么做"的**方法支撑层**。
+
+### 内层：深蓝精神内核维度
+
+"深蓝"一语双关——既指向深海（海洋人才的独特事业场域），也喻示深层（冰山模型中最不可见、最难发展的部分）。"精神内核"对应 McClelland (1973) 和 Spencer & Spencer (1993) 胜任力冰山模型中的"水下部分"：motives, traits, self-concept——动机、特质、自我概念，以及 AMO 框架中的 Motivation（"愿不愿做"的驱动力）。7 个内层主题（海洋强国使命担当、坚韧攻坚奉献、科研报国融合创新等）全部是**深层价值信念与精神驱动力**——不是具体技能，而是人才长期扎根海洋事业的内在引擎。
+
+三层关系可概括为：**深蓝精神内核提供方向 → 协同创新支撑提供路径 → 蓝色胜任表征形成可见成果**。
+
+Drawing on competency modeling, AMO theory, human capital resources research, and layered competency models, this study conceptualizes marine talent capability as a three-dimensional construct: the outer *competency manifestation* dimension captures observable domain-specific practices and work behaviors; the middle *collaborative innovation* dimension captures knowledge, skills, abilities, and other transferable human-capital attributes; and the inner *spiritual core* dimension captures motives, values, self-concept, and strategic orientation that drive sustained contribution.
+
+> 建议主引用组合（详见 `literature_hr_theory/`）：Campion et al. (2011) / Campion et al. (2020)；Bos-Nehles et al. (2023)；Ployhart et al. (2014) 或 Ployhart & Moliterno (2011)；McClelland (1973) + Spencer & Spencer (1993)。
+
+---
 
 ## 一、两层模型：12 × 7 能力 + 5 类画像
 
