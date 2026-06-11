@@ -1,0 +1,6 @@
+.DS_Store
+*.pdf
+*.txt
+cnki_pdfs/
+domain_pdfs/
+method_background_low_priority/
