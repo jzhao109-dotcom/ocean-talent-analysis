@@ -39,3 +39,9 @@ logs/
 # Large / temporary data outputs (按需取消注释)
 # *.csv.bak
 # tmp/
+
+# Local browser profile and downloaded paper PDFs
+.browser-cnki-profile/
+literature_cnki/pdfs/
+literature_english/pdfs/
+企业科技领军人才的多重构型...模型(LLMs)的质性分析_赵晨.pdf
